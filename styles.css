@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    
+    text-align: center;
+    margin: 50px;
+  }
+  
+  #counter {
+    color: green;
+    font-size: 80px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    font-size: 18px;
+    margin: 2px 5px;
+    padding: 5px;
+    cursor: pointer;
+    
+    border-radius: 8px;
+  }
+  
